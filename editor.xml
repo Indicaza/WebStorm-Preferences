@@ -45,5 +45,7 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
+    <option name="tagTreeHighlightingLevelCount" value="12" />
+    <option name="tagTreeHighlightingOpacity" value="50" />
   </component>
 </application>
