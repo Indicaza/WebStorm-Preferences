@@ -4,7 +4,6 @@
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
       <mapping ext="sqlite3" type="SQL" />
-      <mapping ext="exe" type="Shell Script" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />
