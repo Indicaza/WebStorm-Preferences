@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="epub" type="ARCHIVE" />
+      <mapping ext="htmlz" type="ARCHIVE" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <removed_mapping ext="cjs" approved="true" type="JavaScript" />
+      <removed_mapping ext="js" approved="true" type="JavaScript" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
+      <removed_mapping ext="xhtml" approved="true" type="XHTML" />
+      <mapping ext="sqlite3" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
