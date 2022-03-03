@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -40,8 +43,9 @@
     <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
