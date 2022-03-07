@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account name="Indicaza" id="80d1279f-4ec5-4c64-b6e0-338e31fd1b4e">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>
