@@ -8,6 +8,7 @@
         <option value="JavaScript.js.type.hints" />
       </set>
     </option>
+    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
