@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myTabName" value="Z" />
+    <option name="myShellPath" value="/Applications/Warp.app/Contents/MacOS/stable" />
+    <option name="myTabName" value="‍" />
   </component>
 </application>
