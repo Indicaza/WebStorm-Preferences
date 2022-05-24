@@ -1,0 +1,24 @@
+<templateSet group="IndicazasTemplates">
+  <template name="//=" value="//======================================================================================================================" description="Insert comment bar (120chars) //===" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="con" value="console.log($END$)" description="Quick console.log()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fun" value="function $END$() {&#10;&#10;}" description="Creates standard function template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="err" value="console.error($END$)" description="Quick console.error()" toReformat="true" toShortenFQNames="true" />
+  <template name="asy" value="async function $END$() {&#10;&#10;}" description="Creates async function with" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try { $END$&#10;&#10;} catch {&#10;&#10;} finally {&#10;&#10;}" description="Creates try catch" toReformat="false" toShortenFQNames="true" />
+</templateSet>
