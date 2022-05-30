@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="SQL" />
       <mapping ext="db" type="SQL" />
+      <mapping ext="sqlite" type="SQL" />
     </extensionMap>
   </component>
 </application>
