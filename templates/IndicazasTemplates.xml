@@ -21,4 +21,9 @@
     </context>
   </template>
   <template name="try" value="try { $END$&#10;&#10;} catch {&#10;&#10;} finally {&#10;&#10;}" description="Creates try catch" toReformat="false" toShortenFQNames="true" />
+  <template name="ase" value="(async () =&gt; {&#10;&#9;$END$&#10;})();" description="Creates self executing async function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
