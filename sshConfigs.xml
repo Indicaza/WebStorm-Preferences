@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="localhost" id="849290fc-ed4f-4da8-8e43-11ca4d2e76d3" keyPath="$USER_HOME$/ls" port="22" nameFormat="DESCRIPTIVE" username="Zach Reitmeier" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
