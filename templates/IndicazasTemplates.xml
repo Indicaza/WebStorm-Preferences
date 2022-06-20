@@ -26,4 +26,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="logic" value="//TODO - 🖖 Flawed Logic! 🖖" description="Flags a Logic Error" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
