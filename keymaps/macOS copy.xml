@@ -1,6 +1,11 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ExpandLiveTemplateCustom">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
-  <action id="ReplaceInPath" />
+  <action id="GotoTest" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="z" second-keystroke="slash" />
+  </action>
+  <action id="ServiceView.ShowServices" />
 </keymap>

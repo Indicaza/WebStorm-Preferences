@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'firstProject'" />
-    <option name="defaultScopeName" value="Project 'firstProject'" />
-    <option name="SEARCH_SCOPE" value="Project 'firstProject'" />
+    <option name="customScope" value="Project 'ZachsPortfolio'" />
+    <option name="defaultScopeName" value="Project 'ZachsPortfolio'" />
+    <option name="SEARCH_SCOPE" value="Project 'ZachsPortfolio'" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>

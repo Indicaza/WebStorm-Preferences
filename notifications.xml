@@ -1,8 +1,3 @@
 <application>
-  <component name="NotificationConfiguration">
-    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldReadAloud="true" playSound="true" />
-    <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="Vcs Notifications" shouldLog="false" />
-    <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldLog="false" />
-  </component>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false" />
 </application>
