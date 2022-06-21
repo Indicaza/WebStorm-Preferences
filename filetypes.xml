@@ -5,16 +5,16 @@
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
       <mapping ext="sqlite3" type="SQL" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="qrc" type="XML" />
       <removed_mapping ext="cjs" approved="true" type="JavaScript" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="xhtml" approved="true" type="XHTML" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
     </extensionMap>
   </component>
 </application>
