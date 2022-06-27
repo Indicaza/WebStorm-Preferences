@@ -5,7 +5,6 @@
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
       <mapping ext="pdf" type="Image" />
-      <mapping ext="js" type="JavaScript" />
       <mapping ext="sqlite3" type="SQL" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
