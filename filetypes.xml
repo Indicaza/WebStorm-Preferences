@@ -6,11 +6,6 @@
       <mapping ext="htmlz" type="ARCHIVE" />
       <mapping ext="pdf" type="Image" />
       <mapping ext="sqlite3" type="SQL" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="qrc" type="XML" />
       <removed_mapping ext="cjs" approved="true" type="JavaScript" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
